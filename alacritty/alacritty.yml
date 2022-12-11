@@ -22,8 +22,8 @@ window:
     lines: 25
 
   padding:
-    x: 30
-    y: 25
+    x: 10
+    y: 10
 
   decorations: full
   startup_mode: Windowed
@@ -34,7 +34,7 @@ window:
   multiplier: 3
 
 ## Background opacity
-  opacity: 1
+  opacity: 0.69
 
 ## Cursor
 cursor:
