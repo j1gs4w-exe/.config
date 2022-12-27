@@ -148,6 +148,9 @@ alias zshrc="vi ~/.zshrc"
 alias shutdown="shutdown now"
 alias netspeed="speedtest-cli"
 alias dblck="sudo rm /var/lib/pacman/db.lck"
+alias clock="sudo ntpd -qg"
+alias mq="musikcube"
+alias brightness="brillo -S"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
